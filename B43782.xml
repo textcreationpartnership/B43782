@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered for prohibiting all lustrings and alamodes wrought in foreign parts</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43782</idno><idno type="EEBO-CITATION">489265438</idno>
+  <idno type="VID">208690</idno>
+  <idno type="EEBO-PROQUEST">2240893157</idno>
+  
+            <idno type="OCLC"> 489265438</idno>
+            <idno type="OCLC">ocn 489265438</idno>
+            <idno type="STC">Wing R539A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208690)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered for prohibiting all lustrings and alamodes wrought in foreign parts</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Silk industry --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208690:1"/>
+            <pb facs="tcp:208690:2"/>
+            <head>REASONS Humbly offered for Prohibiting all <hi>Lustrings</hi> and <hi>Alamodes</hi> Wrought in Foreign Parts.</head>
+            <p n="1">I. NOtwithstanding the various Laws which have been made against the Importation of all Goods of the Growth and Manufacture of <hi>France,</hi> yet it is notoriously known, as hereunder demonstrated, That very great Quantities of <hi>Alamodes, Lustrings, &amp;c.</hi> have been Imported under the Name of <hi>Dutch</hi> or <hi>Italian</hi> wrought Silks, which were no other than <hi>French;</hi> whereby that Kingdom have made a great Profit, and this Nation a considerable Loss.</p>
+            <p n="2">II. It may be Judged of what concern to the Nation is the Consumption of <hi>Lustring, Alamodes, &amp;c.</hi> by the use of <hi>Hoods, Scarffs, Tippets, Peticoates,</hi> and other uses by the Women. For supposing that of 3 Missions of Females, as there are computed to be in <hi>England,</hi> That only 300 Thousand use any of the said Goods, and that their Expence therein amounts one with another to Twenty Shillings <hi>per Annum,</hi> (which is the least that can be supposed) it Evidences an expence of 300 Thousand Pounds <hi>sterling</hi> yearly in those Silks. But by what is Paid, to Their Majesties <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Duties, the value consumed should be but Two or Three Thousand pounds, and consequent<g ref="char:EOLhyphen"/>ly the Persons consuming it in <hi>England</hi> but Two or Three Thousand: But it manifestly appears to be infinitely greater, for the very Clergy of this Kingdom consumes Six times more.</p>
+            <p n="3">III. This Clandestine Trade is of late Years most in the hands of <hi>French</hi> Papists, <hi>Jews,</hi> and Persons that steal the Duties of at least seven Eighths of what is Imported, and but seldom Enteer at the <hi>Custom-House</hi> some small quantity, and that as Fabricated in <hi>Holland,</hi> though its known that in Reality they are sent from <hi>Lions</hi> to <hi>Flanders</hi> and thence to <hi>Holland,</hi> and so into <hi>England.</hi>
+            </p>
+            <p n="4">IV. Even that small quantity which doth pay any Duty is commonly kept on purpose to be sent for <hi>Ireland,</hi> or the <hi>English</hi> Plantations to draw back most of the said Duty.</p>
+            <p n="5">V. That to Evidence fully the greatness of the quantity of <hi>Alamodes</hi> and <hi>Lustrings</hi> that comes from <hi>France,</hi> a Seizure made in <hi>Kent</hi> the 12th. of <hi>October</hi> last, containing Two Packers of Ten Pieces each, marked ML, Number 295 and 296, shews that 2940 Pieces were Run before that Seizure, and those two Packers so siezed were Condemned as <hi>French</hi> Goods, having the Names of the Fabricators upon each piece, and the Seals of the City of <hi>Lions,</hi> than which nothing can be more convincing, except the sight of the Goods, which is offered by them that bought the same the First of <hi>December</hi> last at the <hi>Custom-Horse, London.</hi>
+            </p>
+            <p n="6">VI. Therefore if the Consumption of <hi>Alamode</hi> and <hi>Lustrings</hi> is granted to be no less than 300 Thousand Pounds yearly in <hi>England,</hi> and that according to the Book of Rates, Their Majesties Duties for the said Goods, being 17 <hi>per Cent.</hi> it Evidences that Their Majesties are deprived of Fifty Thousand Pounds yearly that the Custom of the said Goods amounts unto which is both True and Surprising, being proved Litterally by the <hi>Custom-House</hi> Books.</p>
+            <p n="7">VII. it appears that since the Month of <hi>March</hi> last there hath been Imported into <hi>England</hi> only 780 <hi>l.</hi> weight of the Goods aforesaid Rated at 40 <hi>s. per</hi> lb, and the Duties paid amounting only to 487 <hi>l.</hi> 10 <hi>s.</hi> whereof part is al<g ref="char:EOLhyphen"/>ready drawn back, and probably before the year be out the whole shall be so too, and so little or no Duties remain to Their Majesties, to the great Loss of Their good Subjects.</p>
+            <p n="8">VIII. As those Goods are Fabricated in <hi>France,</hi> and are of small Bulk and great value, there is more Reason and need to Prohibit them to Ruin the Manufacture of the Common Enemy, and encrease that of <hi>England,</hi> The Rather since a Total Prohibition of those Silks can give no Disatisfaction to our Allies, because it is evidently known that there are not any made in <hi>Italy</hi> (though they did once attempt it), neither doth <hi>Holland</hi> now make any quantity of <hi>Alamodes, &amp;c.</hi> supplying themselves easily by Land from <hi>France.</hi> So that the prohibiting of all Foreign <hi>Alamodes, Lustrings, &amp;c.</hi> is in effect no more than a Corroborating of the Act that prohibits Commerce with <hi>France,</hi> by tak<g ref="char:EOLhyphen"/>ing from the Importers that Colour which they make use of that the said Goods are wrought in <hi>Holland,</hi> whereby they have often Evaded the Effects intended and designed by the said act; for the pretence of <hi>Dutch Alamodes</hi> can no longer subsist seeing that in this last Year there is hardly any Duties paid for any.</p>
+            <p n="9">IX. Therefore by a General Prohibition, Their Majesties Revenues will much increase in that the Royal <hi>Lustring</hi> Company of <hi>England,</hi> having a considerable Fund, have also by their Industry and Charge now brought their Work to such perfection that they make <hi>Alamodes</hi> and <hi>Lustrings</hi> as well as any made in <hi>France,</hi> and do now imploy about 2000 poor <hi>Weavers, Windsters, Dyers</hi> and other Tradesmen, who otherwayes would have been Reduced to great streights, and if this Prohibition take effect, the said Company might employ five Times as many as now they do, and so work out in <hi>England</hi> such quantities of Raw Silks, that they will supply not only <hi>England, Scotland, Ireland,</hi> and our Plantations, but also our Neighbours with <hi>Lustrings</hi> and <hi>Alamodes</hi> Fabricated by Their Majesties Subjects. So that the Duties upon the Raw Silk would amount to great Sums of Money as may be guessed by what hath already been done by the said Company, since by one Ship only they paid for their Raw Silk near 460 <hi>l.</hi> Custom, though the Company is in its Infancy, and none of these Duties are to be drawn back. Contrariwise, when any of their Wrought Silks are Exported they must pay a further Duty. Besides by Prohi<g ref="char:EOLhyphen"/>biting Foreign <hi>Lustrings, Alamodes, &amp;c.</hi> great Sums of Money Remitted to <hi>France,</hi> will be kept in <hi>England,</hi> where<g ref="char:EOLhyphen"/>as the Raw Silk used by the said Company comes from the Duke of <hi>Savoy</hi>'s Dominions, and are purchased with the Woollen Manufactures Wrought in <hi>England,</hi> by which means there is a Reciprocal help to both.</p>
+            <p>
+               <table>
+                  <head>Entries of all Foreign <hi>Alamodes</hi> and <hi>Lustrings</hi> in <hi>England,</hi> for which any Duties have been paid and Licences granted, since the first of <hi>March</hi> 1692/3. as appears by Publick Registers.</head>
+                  <row>
+                     <cell>17 <hi>June</hi>
+                     </cell>
+                     <cell>98 lb weight</cell>
+                  </row>
+                  <row>
+                     <cell>7 <hi>August</hi>
+                     </cell>
+                     <cell>110</cell>
+                  </row>
+                  <row>
+                     <cell>14 <hi>August</hi>
+                     </cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>9 <hi>September</hi>
+                     </cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>18 <hi>September</hi>
+                     </cell>
+                     <cell>167 lb weight</cell>
+                  </row>
+                  <row>
+                     <cell>20 <hi>November</hi>
+                     </cell>
+                     <cell>128</cell>
+                  </row>
+                  <row>
+                     <cell>28 <hi>November</hi>
+                     </cell>
+                     <cell>111</cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">780</cell>
+                  </row>
+               </table>
+            </p>
+            <p>18 <hi>December</hi> drawn back already 64 lb weight, and till the 28th. <hi>November</hi> next none knows what shall Remain.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
